@@ -11,4 +11,4 @@ The model can be further optimized by tuning hyperparameters and selecting the b
 
 Overall, a credit default prediction project requires a strong understanding of statistical modeling and machine learning algorithms, as well as expertise in data preprocessing and analysis. The project can provide valuable insights for financial institutions and help mitigate credit risk.
 
-##Find Full Project on our Site: [Credit Default Prediction]("https://skillslash.com/advanced-data-science-and-ai-course-with-real-work-experience")
+## Find Full Project on our Site: [Credit Default Prediction]("https://skillslash.com/advanced-data-science-and-ai-course-with-real-work-experience")
